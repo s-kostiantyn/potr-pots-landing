@@ -10,7 +10,7 @@ This project features a sticky header that highlights as the user scrolls, creat
 - BEM
   
 ### 🔗 Link to view
-[DEMO LINK](https://k-shestakov.github.io/potr-pots-landing/)
+[DEMO LINK](https://s-kostiantyn.github.io/potr-pots-landing/)
 
 ### 🎨 Link to mockup
 [MOCKUP](https://www.figma.com/design/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?node-id=1760-281&node-type=canvas)
